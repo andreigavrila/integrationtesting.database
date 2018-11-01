@@ -1,0 +1,5 @@
+This project is simulating a POC condition to show how to run database integration tests without database modification.
+
+You will need to have 2 databases on a sql server and modify the connection strings in both projects in order to make things work.
+
+Tha database is scripted in Demo.IntegrationTesting.Database/Script
